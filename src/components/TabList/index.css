@@ -1,0 +1,13 @@
+.list-head-1 {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  margin-right: 40px;
+  background-color: transparent;
+  border-width: 0;
+}
+
+.add-cls {
+  border-bottom: 2px solid #fec653;
+}

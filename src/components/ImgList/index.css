@@ -1,0 +1,21 @@
+.img-list-1 {
+  height: 150px;
+  width: 150px;
+}
+
+.img-cont {
+  margin: 10px;
+  display: flex;
+}
+
+.img-butt {
+  background-color: transparent;
+  border-width: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .img-list-1 {
+    height: 110px;
+    width: 110px;
+  }
+}
